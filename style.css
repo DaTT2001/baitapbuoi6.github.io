@@ -17,6 +17,12 @@ body {
     height: 540px;
     /* flex-direction: column; */
 }
+.apple-cut-img li img {
+    filter: drop-shadow(1px 1px 3px #a6a6a6);
+}
+.apple-color li img {
+    filter: drop-shadow(1px 1px 3px #a6a6a6);
+}
 .product-img{
     transform: translate(-20px,30px);
     width: 280px;
